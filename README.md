@@ -172,5 +172,4 @@ Animations
 👤 Author
 Kenyai402 — GitHub
 
-📄 License
-This project is created for the HNG Internship Stage 1b assessment.
+
