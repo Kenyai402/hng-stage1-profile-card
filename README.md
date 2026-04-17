@@ -8,6 +8,8 @@
 
 A responsive, accessible Profile Card component built for **HNG Internship Stage 1b**. Displays user information with real-time millisecond timestamp, semantic HTML structure, and full WCAG AA compliance.
 
+![Profile Card Preview](./images/image.png)
+
 ## 🚀 Live Demo
 
 🔗 **[View Live](https://hng-stage1-profile-card-nu.vercel.app/)**
